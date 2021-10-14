@@ -2,7 +2,7 @@
 
 ## Quiz on Machine Learning
 
-### This is a CLI app which test your knowledge on Machine Learning Subject and at the Show Your Final Score with user name.
+This is a CLI app which test your knowledge on Machine Learning Subject and at the end Show Your Final Score with user name.
 
 ## Want to play this game ?
 
